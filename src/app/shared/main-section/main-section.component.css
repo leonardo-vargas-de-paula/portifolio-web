@@ -8,7 +8,7 @@ section{
 }
 
 @media (min-width: 1080px){
-    .section{
+    section{
         flex-direction: row;
         justify-content: space-between;
     }
